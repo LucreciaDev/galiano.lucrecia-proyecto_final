@@ -1,7 +1,7 @@
 
 package com.ejemplo.articulos.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 // Indica que esta clase es una entidad JPA
 @Entity
